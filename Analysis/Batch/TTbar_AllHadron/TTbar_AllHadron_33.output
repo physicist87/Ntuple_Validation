@@ -1,0 +1,480 @@
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTbar_AllHadron/TTbar_AllHadron_32.list
+Option 2 = TTbar_AllHadron/TTbar_AllHadron_32.txt
+Input filelist = TTbar_AllHadron/TTbar_AllHadron_32.list
+Output file name = TTbar_AllHadron/TTbar_AllHadron_32.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_380.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_381.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_382.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_383.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_384.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_385.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_386.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_387.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_388.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_389.root
+Total number of events after merging root files: 250000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 250000
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTbar_AllHadron/TTbar_AllHadron_71.list
+Option 2 = TTbar_AllHadron/TTbar_AllHadron_71.txt
+Input filelist = TTbar_AllHadron/TTbar_AllHadron_71.list
+Output file name = TTbar_AllHadron/TTbar_AllHadron_71.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_731.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_732.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_733.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_734.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_735.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_736.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_737.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_738.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_739.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0000/SSBTree_73.root
+Total number of events after merging root files: 250000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 250000
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTbar_AllHadron/TTbar_AllHadron_110.list
+Option 2 = TTbar_AllHadron/TTbar_AllHadron_110.txt
+Input filelist = TTbar_AllHadron/TTbar_AllHadron_110.list
+Output file name = TTbar_AllHadron/TTbar_AllHadron_110.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1091.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1092.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1093.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1094.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1095.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1096.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1097.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1098.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1099.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1100.root
+Total number of events after merging root files: 250000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 250000
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTbar_AllHadron/TTbar_AllHadron_149.list
+Option 2 = TTbar_AllHadron/TTbar_AllHadron_149.txt
+Input filelist = TTbar_AllHadron/TTbar_AllHadron_149.list
+Output file name = TTbar_AllHadron/TTbar_AllHadron_149.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1481.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1482.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1483.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1484.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1485.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1486.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1487.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1488.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1489.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1490.root
+Total number of events after merging root files: 250000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 250000
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTbar_AllHadron/TTbar_AllHadron_188.list
+Option 2 = TTbar_AllHadron/TTbar_AllHadron_188.txt
+Input filelist = TTbar_AllHadron/TTbar_AllHadron_188.list
+Output file name = TTbar_AllHadron/TTbar_AllHadron_188.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1871.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1872.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1873.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1874.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1875.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1876.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1877.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1878.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1879.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0001/SSBTree_1880.root
+Total number of events after merging root files: 250000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 250000
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTbar_AllHadron/TTbar_AllHadron_227.list
+Option 2 = TTbar_AllHadron/TTbar_AllHadron_227.txt
+Input filelist = TTbar_AllHadron/TTbar_AllHadron_227.list
+Output file name = TTbar_AllHadron/TTbar_AllHadron_227.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2261.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2262.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2263.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2264.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2265.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2266.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2267.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2268.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2269.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2270.root
+Total number of events after merging root files: 250000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 250000
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTbar_AllHadron/TTbar_AllHadron_266.list
+Option 2 = TTbar_AllHadron/TTbar_AllHadron_266.txt
+Input filelist = TTbar_AllHadron/TTbar_AllHadron_266.list
+Output file name = TTbar_AllHadron/TTbar_AllHadron_266.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2651.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2652.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2653.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2654.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2655.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2656.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2657.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2658.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2659.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0002/SSBTree_2660.root
+Total number of events after merging root files: 250000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 250000
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTbar_AllHadron/TTbar_AllHadron_305.list
+Option 2 = TTbar_AllHadron/TTbar_AllHadron_305.txt
+Input filelist = TTbar_AllHadron/TTbar_AllHadron_305.list
+Output file name = TTbar_AllHadron/TTbar_AllHadron_305.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3041.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3042.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3043.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3044.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3045.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3046.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3047.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3048.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3049.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3050.root
+Total number of events after merging root files: 250000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 250000
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTbar_AllHadron/TTbar_AllHadron_344.list
+Option 2 = TTbar_AllHadron/TTbar_AllHadron_344.txt
+Input filelist = TTbar_AllHadron/TTbar_AllHadron_344.list
+Output file name = TTbar_AllHadron/TTbar_AllHadron_344.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3431.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3432.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3433.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3434.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3435.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3436.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3437.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3438.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3439.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3440.root
+Total number of events after merging root files: 250000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 250000
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTbar_AllHadron/TTbar_AllHadron_383.list
+Option 2 = TTbar_AllHadron/TTbar_AllHadron_383.txt
+Input filelist = TTbar_AllHadron/TTbar_AllHadron_383.list
+Output file name = TTbar_AllHadron/TTbar_AllHadron_383.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3821.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3822.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3823.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3824.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3825.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3826.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3827.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3828.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3829.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/crab_TTToHadronic_TuneCP5_13TeV-powheg-pythia8/240205_145659//0003/SSBTree_3830.root
+Total number of events after merging root files: 250000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 250000
+End processing...
+

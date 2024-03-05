@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./TTJets_Inclusive/TTJets_Inclusive_21.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./TTJets_Inclusive/TTJets_Inclusive_21.output
+error       = ./TTJets_Inclusive/errors_TTJets_Inclusive_21.txt
+log         = ./TTJets_Inclusive/test_TTJets_Inclusive_21.log
+Queue 1

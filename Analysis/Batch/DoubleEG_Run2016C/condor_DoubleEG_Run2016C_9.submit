@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./DoubleEG_Run2016C/DoubleEG_Run2016C_9.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./DoubleEG_Run2016C/DoubleEG_Run2016C_9.output
+error       = ./DoubleEG_Run2016C/errors_DoubleEG_Run2016C_9.txt
+log         = ./DoubleEG_Run2016C/test_DoubleEG_Run2016C_9.log
+Queue 1

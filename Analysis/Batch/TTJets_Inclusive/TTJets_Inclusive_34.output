@@ -1,0 +1,480 @@
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTJets_Inclusive/TTJets_Inclusive_33.list
+Option 2 = TTJets_Inclusive/TTJets_Inclusive_33.txt
+Input filelist = TTJets_Inclusive/TTJets_Inclusive_33.list
+Output file name = TTJets_Inclusive/TTJets_Inclusive_33.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_38.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_390.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_391.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_392.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_393.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_394.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_395.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_396.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_397.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_398.root
+Total number of events after merging root files: 249258
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 249258
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTJets_Inclusive/TTJets_Inclusive_71.list
+Option 2 = TTJets_Inclusive/TTJets_Inclusive_71.txt
+Input filelist = TTJets_Inclusive/TTJets_Inclusive_71.list
+Output file name = TTJets_Inclusive/TTJets_Inclusive_71.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_731.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_732.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_733.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_734.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_735.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_736.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_737.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_738.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_739.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0000/SSBTree_73.root
+Total number of events after merging root files: 246572
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 246572
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTJets_Inclusive/TTJets_Inclusive_109.list
+Option 2 = TTJets_Inclusive/TTJets_Inclusive_109.txt
+Input filelist = TTJets_Inclusive/TTJets_Inclusive_109.list
+Output file name = TTJets_Inclusive/TTJets_Inclusive_109.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1081.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1082.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1083.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1084.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1085.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1086.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1087.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1088.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1089.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1090.root
+Total number of events after merging root files: 249564
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 249564
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTJets_Inclusive/TTJets_Inclusive_147.list
+Option 2 = TTJets_Inclusive/TTJets_Inclusive_147.txt
+Input filelist = TTJets_Inclusive/TTJets_Inclusive_147.list
+Output file name = TTJets_Inclusive/TTJets_Inclusive_147.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1461.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1462.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1463.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1464.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1465.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1466.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1467.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1468.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1469.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1470.root
+Total number of events after merging root files: 249462
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 249462
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTJets_Inclusive/TTJets_Inclusive_185.list
+Option 2 = TTJets_Inclusive/TTJets_Inclusive_185.txt
+Input filelist = TTJets_Inclusive/TTJets_Inclusive_185.list
+Output file name = TTJets_Inclusive/TTJets_Inclusive_185.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1841.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1842.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1843.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1844.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1845.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1846.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1847.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1848.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1849.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0001/SSBTree_1850.root
+Total number of events after merging root files: 249062
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 249062
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTJets_Inclusive/TTJets_Inclusive_223.list
+Option 2 = TTJets_Inclusive/TTJets_Inclusive_223.txt
+Input filelist = TTJets_Inclusive/TTJets_Inclusive_223.list
+Output file name = TTJets_Inclusive/TTJets_Inclusive_223.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2221.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2222.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2223.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2224.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2225.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2226.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2227.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2228.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2229.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2230.root
+Total number of events after merging root files: 246000
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 246000
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTJets_Inclusive/TTJets_Inclusive_261.list
+Option 2 = TTJets_Inclusive/TTJets_Inclusive_261.txt
+Input filelist = TTJets_Inclusive/TTJets_Inclusive_261.list
+Output file name = TTJets_Inclusive/TTJets_Inclusive_261.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2601.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2602.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2603.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2604.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2605.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2606.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2607.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2608.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2609.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2610.root
+Total number of events after merging root files: 246323
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 246323
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTJets_Inclusive/TTJets_Inclusive_299.list
+Option 2 = TTJets_Inclusive/TTJets_Inclusive_299.txt
+Input filelist = TTJets_Inclusive/TTJets_Inclusive_299.list
+Output file name = TTJets_Inclusive/TTJets_Inclusive_299.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2981.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2982.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2983.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2984.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2985.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2986.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2987.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2988.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2989.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0002/SSBTree_2990.root
+Total number of events after merging root files: 248575
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 248575
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTJets_Inclusive/TTJets_Inclusive_337.list
+Option 2 = TTJets_Inclusive/TTJets_Inclusive_337.txt
+Input filelist = TTJets_Inclusive/TTJets_Inclusive_337.list
+Output file name = TTJets_Inclusive/TTJets_Inclusive_337.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3361.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3362.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3363.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3364.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3365.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3366.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3367.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3368.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3369.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3370.root
+Total number of events after merging root files: 249388
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 249388
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = TTJets_Inclusive/TTJets_Inclusive_375.list
+Option 2 = TTJets_Inclusive/TTJets_Inclusive_375.txt
+Input filelist = TTJets_Inclusive/TTJets_Inclusive_375.list
+Output file name = TTJets_Inclusive/TTJets_Inclusive_375.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3741.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3742.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3743.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3744.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3745.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3746.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3747.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3748.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3749.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_TTJets_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_152245//0003/SSBTree_3750.root
+Total number of events after merging root files: 246916
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 246916
+End processing...
+

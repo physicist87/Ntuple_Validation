@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./TTbarSignal/TTbarSignal_1.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./TTbarSignal/TTbarSignal_1.output
+error       = ./TTbarSignal/errors_TTbarSignal_1.txt
+log         = ./TTbarSignal/test_TTbarSignal_1.log
+Queue 1

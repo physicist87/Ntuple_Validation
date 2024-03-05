@@ -1,0 +1,477 @@
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_3.list
+Option 2 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_3.txt
+Input filelist = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_3.list
+Output file name = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_3.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_119.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_11.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_120.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_121.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_122.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_123.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_124.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_125.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_126.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_127.root
+Total number of events after merging root files: 217226
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Total processed number of events: 217226
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_24.list
+Option 2 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_24.txt
+Input filelist = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_24.list
+Output file name = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_24.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_308.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_309.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_30.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_310.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_311.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_312.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_313.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_314.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_315.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_316.root
+Total number of events after merging root files: 247518
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 247518
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_45.list
+Option 2 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_45.txt
+Input filelist = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_45.list
+Output file name = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_45.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_498.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_499.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_49.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_4.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_500.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_501.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_502.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_503.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_504.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_505.root
+Total number of events after merging root files: 247865
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 247865
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_66.list
+Option 2 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_66.txt
+Input filelist = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_66.list
+Output file name = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_66.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_687.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_688.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_689.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_68.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_690.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_691.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_692.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_693.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_694.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_695.root
+Total number of events after merging root files: 247119
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 247119
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_87.list
+Option 2 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_87.txt
+Input filelist = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_87.list
+Output file name = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_87.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_876.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_877.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_878.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_879.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_87.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_880.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_881.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_882.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_883.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0000/SSBTree_884.root
+Total number of events after merging root files: 246896
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 246896
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_108.list
+Option 2 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_108.txt
+Input filelist = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_108.list
+Output file name = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_108.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1071.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1072.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1073.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1074.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1075.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1076.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1077.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1078.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1079.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1080.root
+Total number of events after merging root files: 247141
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 247141
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_129.list
+Option 2 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_129.txt
+Input filelist = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_129.list
+Output file name = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_129.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1281.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1282.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1283.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1284.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1285.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1286.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1287.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1288.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1289.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1290.root
+Total number of events after merging root files: 247259
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 247259
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_150.list
+Option 2 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_150.txt
+Input filelist = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_150.list
+Output file name = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_150.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1491.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1492.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1493.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1494.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1495.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1496.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1497.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1498.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1499.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1500.root
+Total number of events after merging root files: 247053
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 247053
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_171.list
+Option 2 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_171.txt
+Input filelist = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_171.list
+Output file name = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_171.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1701.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1702.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1703.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1704.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1705.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1706.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1707.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1708.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1709.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1710.root
+Total number of events after merging root files: 247048
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 247048
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_192.list
+Option 2 = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_192.txt
+Input filelist = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_192.list
+Output file name = DYJetsToLL_M_10To50/DYJetsToLL_M_10To50_192.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1911.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1912.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1913.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1914.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1915.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1916.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1917.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1918.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1919.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/MC/DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/crab_DYJetsToLL_M-10to50_TuneCP5_13TeV-amcatnloFXFX-pythia8/240205_161753//0001/SSBTree_1920.root
+Total number of events after merging root files: 247889
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 247889
+End processing...
+

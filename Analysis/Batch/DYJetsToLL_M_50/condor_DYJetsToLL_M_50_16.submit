@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./DYJetsToLL_M_50/DYJetsToLL_M_50_16.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./DYJetsToLL_M_50/DYJetsToLL_M_50_16.output
+error       = ./DYJetsToLL_M_50/errors_DYJetsToLL_M_50_16.txt
+log         = ./DYJetsToLL_M_50/test_DYJetsToLL_M_50_16.log
+Queue 1

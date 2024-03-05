@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./SingleElectron_Run2016C/SingleElectron_Run2016C_3.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./SingleElectron_Run2016C/SingleElectron_Run2016C_3.output
+error       = ./SingleElectron_Run2016C/errors_SingleElectron_Run2016C_3.txt
+log         = ./SingleElectron_Run2016C/test_SingleElectron_Run2016C_3.log
+Queue 1

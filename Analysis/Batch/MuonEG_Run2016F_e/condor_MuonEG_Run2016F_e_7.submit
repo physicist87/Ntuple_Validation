@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./MuonEG_Run2016F_e/MuonEG_Run2016F_e_7.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./MuonEG_Run2016F_e/MuonEG_Run2016F_e_7.output
+error       = ./MuonEG_Run2016F_e/errors_MuonEG_Run2016F_e_7.txt
+log         = ./MuonEG_Run2016F_e/test_MuonEG_Run2016F_e_7.log
+Queue 1

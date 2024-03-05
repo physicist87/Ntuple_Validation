@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./WW/WW_4.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./WW/WW_4.output
+error       = ./WW/errors_WW_4.txt
+log         = ./WW/test_WW_4.log
+Queue 1

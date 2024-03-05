@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./SingleMuon_Run2016C/SingleMuon_Run2016C_9.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./SingleMuon_Run2016C/SingleMuon_Run2016C_9.output
+error       = ./SingleMuon_Run2016C/errors_SingleMuon_Run2016C_9.txt
+log         = ./SingleMuon_Run2016C/test_SingleMuon_Run2016C_9.log
+Queue 1

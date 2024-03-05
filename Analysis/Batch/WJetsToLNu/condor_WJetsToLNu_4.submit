@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./WJetsToLNu/WJetsToLNu_4.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./WJetsToLNu/WJetsToLNu_4.output
+error       = ./WJetsToLNu/errors_WJetsToLNu_4.txt
+log         = ./WJetsToLNu/test_WJetsToLNu_4.log
+Queue 1

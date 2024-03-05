@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_3.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_3.output
+error       = ./DoubleMuon_Run2016F_e/errors_DoubleMuon_Run2016F_e_3.txt
+log         = ./DoubleMuon_Run2016F_e/test_DoubleMuon_Run2016F_e_3.log
+Queue 1

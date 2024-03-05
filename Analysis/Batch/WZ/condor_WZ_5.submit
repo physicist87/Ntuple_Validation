@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./WZ/WZ_5.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./WZ/WZ_5.output
+error       = ./WZ/errors_WZ_5.txt
+log         = ./WZ/test_WZ_5.log
+Queue 1

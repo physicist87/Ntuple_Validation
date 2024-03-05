@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./TTbar_SemiLep/TTbar_SemiLep_18.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./TTbar_SemiLep/TTbar_SemiLep_18.output
+error       = ./TTbar_SemiLep/errors_TTbar_SemiLep_18.txt
+log         = ./TTbar_SemiLep/test_TTbar_SemiLep_18.log
+Queue 1

@@ -1,0 +1,9 @@
+# Unix submit description file
+Universe = vanilla
+Executable = ./TTbar_AllHadron/TTbar_AllHadron_24.sh
+request_memory = 20000 
+should_transfer_files   = Yes
+Output      = ./TTbar_AllHadron/TTbar_AllHadron_24.output
+error       = ./TTbar_AllHadron/errors_TTbar_AllHadron_24.txt
+log         = ./TTbar_AllHadron/test_TTbar_AllHadron_24.log
+Queue 1

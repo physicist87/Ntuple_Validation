@@ -1,0 +1,220 @@
+000 (1068096.000.000) 2024-03-04 14:40:24 Job submitted from host: <155.230.23.71:9618?addrs=155.230.23.71-9618&alias=cms01.knu.ac.kr&noUDP&sock=schedd_1692_2655>
+...
+000 (1068123.000.000) 2024-03-04 14:40:25 Job submitted from host: <155.230.23.71:9618?addrs=155.230.23.71-9618&alias=cms01.knu.ac.kr&noUDP&sock=schedd_1692_2655>
+...
+040 (1068096.000.000) 2024-03-04 14:41:36 Started transferring input files
+	Transferring to host: <155.230.21.135:9618?addrs=155.230.21.135-9618+[2407-c000-c024-0-a6bf-1ff-fe8f-f57f]-9618&alias=cluster335.knu.ac.kr&noUDP&sock=slot1_13_8697_92bb_40728>
+...
+040 (1068096.000.000) 2024-03-04 14:41:36 Finished transferring input files
+...
+001 (1068096.000.000) 2024-03-04 14:41:37 Job executing on host: <155.230.21.135:9618?addrs=155.230.21.135-9618+[2407-c000-c024-0-a6bf-1ff-fe8f-f57f]-9618&alias=cluster335.knu.ac.kr&noUDP&sock=startd_8660_9e40>
+	SlotName: slot1_13@cluster335.knu.ac.kr
+	CondorScratchDir = "/home/condor/dir_91617"
+	Cpus = 1
+	Disk = 1907312
+	Memory = 20000
+...
+006 (1068096.000.000) 2024-03-04 14:41:45 Image size of job updated: 76456
+	74  -  MemoryUsage of job (MB)
+	75544  -  ResidentSetSize of job (KB)
+...
+040 (1068123.000.000) 2024-03-04 14:41:46 Started transferring input files
+	Transferring to host: <155.230.21.137:9618?addrs=155.230.21.137-9618+[2407-c000-c024-0-da5e-d3ff-fe8f-f90e]-9618&alias=cluster337.knu.ac.kr&noUDP&sock=slot1_19_93638_3119_51198>
+...
+040 (1068123.000.000) 2024-03-04 14:41:46 Finished transferring input files
+...
+001 (1068123.000.000) 2024-03-04 14:41:47 Job executing on host: <155.230.21.137:9618?addrs=155.230.21.137-9618+[2407-c000-c024-0-da5e-d3ff-fe8f-f90e]-9618&alias=cluster337.knu.ac.kr&noUDP&sock=startd_9300_9add>
+	SlotName: slot1_19@cluster337.knu.ac.kr
+	CondorScratchDir = "/home/condor/dir_95344"
+	Cpus = 1
+	Disk = 3863169
+	Memory = 20000
+...
+006 (1068123.000.000) 2024-03-04 14:41:56 Image size of job updated: 77316
+	75  -  MemoryUsage of job (MB)
+	76224  -  ResidentSetSize of job (KB)
+...
+006 (1068096.000.000) 2024-03-04 14:46:45 Image size of job updated: 426376
+	369  -  MemoryUsage of job (MB)
+	377280  -  ResidentSetSize of job (KB)
+...
+006 (1068123.000.000) 2024-03-04 14:46:57 Image size of job updated: 432544
+	404  -  MemoryUsage of job (MB)
+	412960  -  ResidentSetSize of job (KB)
+...
+006 (1068096.000.000) 2024-03-04 14:56:46 Image size of job updated: 439360
+	402  -  MemoryUsage of job (MB)
+	411136  -  ResidentSetSize of job (KB)
+...
+006 (1068123.000.000) 2024-03-04 14:56:58 Image size of job updated: 444484
+	404  -  MemoryUsage of job (MB)
+	412960  -  ResidentSetSize of job (KB)
+...
+006 (1068096.000.000) 2024-03-04 15:01:46 Image size of job updated: 441360
+	402  -  MemoryUsage of job (MB)
+	411136  -  ResidentSetSize of job (KB)
+...
+006 (1068096.000.000) 2024-03-04 15:16:48 Image size of job updated: 449276
+	402  -  MemoryUsage of job (MB)
+	411136  -  ResidentSetSize of job (KB)
+...
+040 (1068096.000.000) 2024-03-04 15:24:39 Started transferring output files
+...
+040 (1068096.000.000) 2024-03-04 15:24:39 Finished transferring output files
+...
+005 (1068096.000.000) 2024-03-04 15:24:39 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:05:20, Sys 0 00:00:21  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:05:20, Sys 0 00:00:21  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	34154  -  Run Bytes Sent By Job
+	703  -  Run Bytes Received By Job
+	34154  -  Total Bytes Sent By Job
+	703  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       51        1   1907312 
+	   Memory (MB)          :      402    20000     20000 
+
+	Job terminated of its own accord at 2024-03-04T06:24:39Z with exit-code 0.
+...
+040 (1068123.000.000) 2024-03-04 15:25:07 Started transferring output files
+...
+040 (1068123.000.000) 2024-03-04 15:25:07 Finished transferring output files
+...
+005 (1068123.000.000) 2024-03-04 15:25:07 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:06:17, Sys 0 00:00:20  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:06:17, Sys 0 00:00:20  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	34154  -  Run Bytes Sent By Job
+	703  -  Run Bytes Received By Job
+	34154  -  Total Bytes Sent By Job
+	703  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.48        1         1 
+	   Disk (KB)            :    51           1   3863169 
+	   Memory (MB)          :   404       20000     20000 
+
+	Job terminated of its own accord at 2024-03-04T06:25:07Z with exit-code 0.
+...
+000 (1068803.000.000) 2024-03-04 22:45:27 Job submitted from host: <155.230.23.71:9618?addrs=155.230.23.71-9618&alias=cms01.knu.ac.kr&noUDP&sock=schedd_1692_2655>
+...
+000 (1068830.000.000) 2024-03-04 22:45:29 Job submitted from host: <155.230.23.71:9618?addrs=155.230.23.71-9618&alias=cms01.knu.ac.kr&noUDP&sock=schedd_1692_2655>
+...
+040 (1068803.000.000) 2024-03-05 01:04:03 Started transferring input files
+	Transferring to host: <155.230.21.151:9618?addrs=155.230.21.151-9618+[2407-c000-c024-0-7656-3cff-fe53-8e9e]-9618&alias=cluster351.knu.ac.kr&noUDP&sock=slot1_39_121454_1484_32263>
+...
+040 (1068803.000.000) 2024-03-05 01:04:03 Finished transferring input files
+...
+001 (1068803.000.000) 2024-03-05 01:04:04 Job executing on host: <155.230.21.151:9618?addrs=155.230.21.151-9618+[2407-c000-c024-0-7656-3cff-fe53-8e9e]-9618&alias=cluster351.knu.ac.kr&noUDP&sock=startd_121419_e9cc>
+	SlotName: slot1_39@cluster351.knu.ac.kr
+...
+006 (1068803.000.000) 2024-03-05 01:04:12 Image size of job updated: 554968
+	74  -  MemoryUsage of job (MB)
+	75436  -  ResidentSetSize of job (KB)
+...
+040 (1068830.000.000) 2024-03-05 01:08:04 Started transferring input files
+	Transferring to host: <155.230.21.137:9618?addrs=155.230.21.137-9618+[2407-c000-c024-0-da5e-d3ff-fe8f-f90e]-9618&alias=cluster337.knu.ac.kr&noUDP&sock=slot1_17_93638_3119_51678>
+...
+040 (1068830.000.000) 2024-03-05 01:08:04 Finished transferring input files
+...
+001 (1068830.000.000) 2024-03-05 01:08:05 Job executing on host: <155.230.21.137:9618?addrs=155.230.21.137-9618+[2407-c000-c024-0-da5e-d3ff-fe8f-f90e]-9618&alias=cluster337.knu.ac.kr&noUDP&sock=startd_9300_9add>
+	SlotName: slot1_17@cluster337.knu.ac.kr
+	CondorScratchDir = "/home/condor/dir_65331"
+	Cpus = 1
+	Disk = 3863169
+	Memory = 20000
+...
+006 (1068830.000.000) 2024-03-05 01:08:14 Image size of job updated: 75960
+	74  -  MemoryUsage of job (MB)
+	75492  -  ResidentSetSize of job (KB)
+...
+006 (1068803.000.000) 2024-03-05 01:09:12 Image size of job updated: 952612
+	366  -  MemoryUsage of job (MB)
+	374436  -  ResidentSetSize of job (KB)
+...
+006 (1068830.000.000) 2024-03-05 01:13:15 Image size of job updated: 432404
+	367  -  MemoryUsage of job (MB)
+	375056  -  ResidentSetSize of job (KB)
+...
+006 (1068803.000.000) 2024-03-05 01:19:14 Image size of job updated: 952612
+	391  -  MemoryUsage of job (MB)
+	399948  -  ResidentSetSize of job (KB)
+...
+006 (1068830.000.000) 2024-03-05 01:23:16 Image size of job updated: 444228
+	367  -  MemoryUsage of job (MB)
+	375056  -  ResidentSetSize of job (KB)
+...
+006 (1068830.000.000) 2024-03-05 01:28:17 Image size of job updated: 444228
+	370  -  MemoryUsage of job (MB)
+	378432  -  ResidentSetSize of job (KB)
+...
+006 (1068803.000.000) 2024-03-05 01:29:14 Image size of job updated: 952940
+	391  -  MemoryUsage of job (MB)
+	399948  -  ResidentSetSize of job (KB)
+...
+006 (1068803.000.000) 2024-03-05 01:39:16 Image size of job updated: 954168
+	391  -  MemoryUsage of job (MB)
+	399948  -  ResidentSetSize of job (KB)
+...
+006 (1068830.000.000) 2024-03-05 01:43:18 Image size of job updated: 444228
+	427  -  MemoryUsage of job (MB)
+	436920  -  ResidentSetSize of job (KB)
+...
+006 (1068803.000.000) 2024-03-05 01:44:16 Image size of job updated: 961676
+	391  -  MemoryUsage of job (MB)
+	399948  -  ResidentSetSize of job (KB)
+...
+006 (1068830.000.000) 2024-03-05 01:48:19 Image size of job updated: 445304
+	427  -  MemoryUsage of job (MB)
+	436920  -  ResidentSetSize of job (KB)
+...
+040 (1068803.000.000) 2024-03-05 01:48:27 Started transferring output files
+...
+040 (1068803.000.000) 2024-03-05 01:48:27 Finished transferring output files
+...
+005 (1068803.000.000) 2024-03-05 01:48:27 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:05:06, Sys 0 00:00:17  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:05:06, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	34154  -  Run Bytes Sent By Job
+	703  -  Run Bytes Received By Job
+	34154  -  Total Bytes Sent By Job
+	703  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       50        1   7798628 
+	   Memory (MB)          :      391    20000     20000 
+
+	Job terminated of its own accord at 2024-03-04T16:48:27Z with exit-code 0.
+...
+006 (1068830.000.000) 2024-03-05 01:53:09 Image size of job updated: 446108
+	427  -  MemoryUsage of job (MB)
+	436920  -  ResidentSetSize of job (KB)
+...
+040 (1068830.000.000) 2024-03-05 01:53:09 Started transferring output files
+...
+040 (1068830.000.000) 2024-03-05 01:53:09 Finished transferring output files
+...
+005 (1068830.000.000) 2024-03-05 01:53:29 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:06:35, Sys 0 00:00:20  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:06:35, Sys 0 00:00:20  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	34154  -  Run Bytes Sent By Job
+	703  -  Run Bytes Received By Job
+	34154  -  Total Bytes Sent By Job
+	703  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       51        1   3863169 
+	   Memory (MB)          :      427    20000     20000 
+
+	Job terminated of its own accord at 2024-03-04T16:53:09Z with exit-code 0.
+...

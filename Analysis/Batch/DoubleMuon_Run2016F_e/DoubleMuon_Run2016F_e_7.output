@@ -1,0 +1,476 @@
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_6.list
+Option 2 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_6.txt
+Input filelist = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_6.list
+Output file name = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_6.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_146.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_147.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_148.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_149.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_14.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_150.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_151.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_152.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_153.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_154.root
+Total number of events after merging root files: 207817
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Total processed number of events: 207817
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_14.list
+Option 2 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_14.txt
+Input filelist = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_14.list
+Output file name = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_14.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_218.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_219.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_21.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_220.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_221.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_222.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_223.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_224.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_225.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_226.root
+Total number of events after merging root files: 194034
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Total processed number of events: 194034
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_22.list
+Option 2 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_22.txt
+Input filelist = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_22.list
+Output file name = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_22.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_290.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_291.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_292.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_293.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_294.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_295.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_296.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_297.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_298.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_299.root
+Total number of events after merging root files: 274400
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Event 250000
+Event 260000
+Event 270000
+Total processed number of events: 274400
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_30.list
+Option 2 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_30.txt
+Input filelist = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_30.list
+Output file name = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_30.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_362.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_363.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_364.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_365.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_366.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_367.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_368.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_369.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_36.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_370.root
+Total number of events after merging root files: 209556
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Total processed number of events: 209556
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_38.list
+Option 2 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_38.txt
+Input filelist = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_38.list
+Output file name = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_38.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_434.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_435.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_436.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_437.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_438.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_439.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_43.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_440.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_441.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_442.root
+Total number of events after merging root files: 260960
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Event 250000
+Event 260000
+Total processed number of events: 260960
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_46.list
+Option 2 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_46.txt
+Input filelist = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_46.list
+Output file name = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_46.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_506.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_507.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_508.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_509.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_50.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_510.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_511.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_512.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_513.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_514.root
+Total number of events after merging root files: 226688
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Total processed number of events: 226688
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_54.list
+Option 2 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_54.txt
+Input filelist = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_54.list
+Output file name = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_54.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_579.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_57.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_580.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_581.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_582.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_583.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_584.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_585.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_586.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_587.root
+Total number of events after merging root files: 278997
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Event 250000
+Event 260000
+Event 270000
+Total processed number of events: 278997
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_62.list
+Option 2 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_62.txt
+Input filelist = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_62.list
+Output file name = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_62.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_650.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_651.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_652.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_653.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_654.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_655.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_656.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_657.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_658.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_659.root
+Total number of events after merging root files: 279196
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Event 250000
+Event 260000
+Event 270000
+Total processed number of events: 279196
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_70.list
+Option 2 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_70.txt
+Input filelist = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_70.list
+Output file name = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_70.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_722.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_723.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_724.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_725.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_726.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_727.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_728.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_729.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_72.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_730.root
+Total number of events after merging root files: 241389
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 241389
+End processing...
+
+The number of options is: 2
+Option 0 = ./TopMass_analysis
+Option 1 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_78.list
+Option 2 = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_78.txt
+Input filelist = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_78.list
+Output file name = DoubleMuon_Run2016F_e/DoubleMuon_Run2016F_e_78.txt
+
+
+start merging file(s)
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_90.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_91.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_92.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_93.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_94.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_95.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_96.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_97.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_98.root
+adding: dcap://cluster142.knu.ac.kr//pnfs/knu.ac.kr/data/cms/store/user/sha/Run2FULL/2016PreVFP/DATA/DoubleMuon/crab_DoubleMuon_Run2016F_e/240205_142127//0000/SSBTree_99.root
+Total number of events after merging root files: 244777
+Event 0
+Event 10000
+Event 20000
+Event 30000
+Event 40000
+Event 50000
+Event 60000
+Event 70000
+Event 80000
+Event 90000
+Event 100000
+Event 110000
+Event 120000
+Event 130000
+Event 140000
+Event 150000
+Event 160000
+Event 170000
+Event 180000
+Event 190000
+Event 200000
+Event 210000
+Event 220000
+Event 230000
+Event 240000
+Total processed number of events: 244777
+End processing...
+
